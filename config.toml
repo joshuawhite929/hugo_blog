@@ -2,7 +2,6 @@ baseurl = "http://joshuawhite.com/"
 languageCode = "en-us"
 title = "JOSH'S BLOG"
 copyright = "Copyright &copy; 2018 - Joshua White"
-canonifyurls = true
 theme = "kiera"
 
 paginate = 3
@@ -10,6 +9,7 @@ paginate = 3
 summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
+cleanDestinationDir = true
 
 disqusShortname = "joshuawhite929"
 googleAnalytics = "UA-83956916-1"
